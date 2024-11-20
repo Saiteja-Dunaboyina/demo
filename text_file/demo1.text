@@ -2,6 +2,11 @@ Learning git hub
 Learning merging
 Learing reverting
 Reverting the code from branch:
+<<<<<<< HEAD
 Commit 2
 Commit 3
 
+=======
+Commit 1
+Commit 2
+>>>>>>> parent of dd098bb (commit3)
